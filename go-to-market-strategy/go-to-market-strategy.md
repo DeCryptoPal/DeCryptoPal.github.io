@@ -1,6 +1,6 @@
 ---
 description: >-
-  The go-to market strategy for MemeFund will involve a multichannel approach
+  The go-to market strategy for SatsFund will involve a multichannel approach
   that includes:
 ---
 
